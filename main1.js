@@ -1,4 +1,4 @@
 let a = 'b';
 let b = 'b';
-const A ='kkk';
-const A = 'KK';
+const AA ='kkk';
+const BB = 'KK'; //这里是修改了bug的
